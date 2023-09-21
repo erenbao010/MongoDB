@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className="app">
       <nav  >
-        <ul className="container flex flex-grow mx-auto justify-between">
+        <ul className="container flex flex-grow mx-auto p-6 justify-between">
           <li>
             <a className="text-green-600" href="/">Home</a>
           </li>
