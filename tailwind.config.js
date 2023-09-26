@@ -2,10 +2,14 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    './src/**/*.{js,jsx,ts,tsx,vue}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'green-lime':'#bbf7d0',
+      }
+    },
   },
   plugins: [],
 }

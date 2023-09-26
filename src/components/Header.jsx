@@ -4,16 +4,11 @@ import React from 'react';
 function Header() {
   return (
     <header className='container mx-auto p-6'>
-    <div className='flex flex-row items-center justify-between'>
-        <div className='text-left text-green-900 bg-black bg-orange-300 '>
-            <h2>Logo</h2>
-        </div>
-        <div className=''>
-        </div>
-            Menu
-        <div className=''>
-            More 
-        </div>
+    <div >
+       <p className='text-5xl text-center '>Live anywhere</p>
+       <p className='text-xl font-extralight text-center'>Keep Calm & travel on</p>
+       
+
     </div>
     </header>
   );
