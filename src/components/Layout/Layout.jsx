@@ -11,7 +11,7 @@ const LayoutStyled = styled.div`
 
 const PrimaryLayout = () => {
   return (
-    <LayoutStyled className="container mx-auto p-20 bg-green-lime ">
+    <LayoutStyled className="container mx-auto h-full flex flex-col p-20 bg-green-lime ">
       <div className="container mx-auto p-6 bg-white px-6 ">
         
       <SideBar/>

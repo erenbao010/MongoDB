@@ -6,15 +6,6 @@ function Error() {
    
         <div className='text-left text-green-900 '>
             <h2>Error</h2>
-            <h2>Error</h2>
-            <h2>Error</h2>
-            <h2>Error</h2>
-            <h2>Error</h2>
-
-            <h2>Error</h2>
-            <h2>Error</h2>
-            <h2>Error</h2>
-
         </div>
         
 

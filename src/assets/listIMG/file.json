@@ -5,6 +5,10 @@
         "img":"src/assets/images/portfolio//lady-shutterbug.jpg"
     },
     {
+        "index":4,
+        "img":"src/assets/images/portfolio/guitarist.jpg"
+    },
+    {
         "index":2,
         "img":"src/assets/images/portfolio//lady-shutterbug.jpg"
     },
@@ -12,6 +16,7 @@
         "index":3,
         "img":"src/assets/images/portfolio//lady-shutterbug.jpg"
     }
+    
  
 ]
   
