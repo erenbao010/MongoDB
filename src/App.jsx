@@ -9,14 +9,13 @@ import {PrimaryLayout} from "./components/Layout";
 
 export default function App() {
   return (
-    <div className="app container mx-auto flex flex-wrap p-9 bg-white">
+    <div className="app container h-auto mx-auto flex flex-col p-9 bg-white">
     <Routes>
       <Route element={<PrimaryLayout/>} >
       <Route path="/" element={<Header/>} /> 
       </Route>
       <Route path="*" element={<Error/>} />
       <Route path="/about" element={<About/>} />
-
     </Routes>
     </div>
   )
